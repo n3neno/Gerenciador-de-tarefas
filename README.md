@@ -1,2 +1,9 @@
 # Gerenciador-de-tarefas
-Gerenciador de tarefas simples em C++
+
+
+
+##Funcionalidades
+- Cadastro de tarefas com descrição, prioridade e tempo
+- Persistência de dados em arquivo CSV
+- Marcar tarefas como concluídas
+- Remover tarefas da lista
